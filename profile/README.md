@@ -13,16 +13,16 @@ AI 음성 전화로 여러 병원에 동시 연락하고 실시간으로 수용 
 
 | Repository | Description |
 |------------|-------------|
-| [**BE**](https://github.com/404-BlueYongThon/BE) | Backend API (NestJS, Python, C++, Docker) |
-| [**FE**](https://github.com/404-BlueYongThon/FE) | Frontend Web (Next.js 14, TypeScript, Vercel) |
+| [**BE**](https://github.com/404-BlueYongThon/BE) | Backend API (NestJS, Python) |
+| [**FE**](https://github.com/404-BlueYongThon/FE) | Frontend Web (Next.js 16, TypeScript, Vercel) |
 
 ---
 
 ## Tech Stack
 
-**Backend**: NestJS, Python FastAPI, C++, PostgreSQL, Docker  
-**Frontend**: Next.js 14, TypeScript, Tailwind CSS  
-**AI & Voice**: Twilio, Google Cloud TTS/STT, OpenAI GPT-4o
+**Backend**: NestJS, Python FastAPI, MySQL  
+**Frontend**: Next.js 16, TypeScript, Tailwind CSS  
+**AI & Voice**: Twilio
 
 ---
 
