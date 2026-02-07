@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="../assets/logo.png" alt="404 Found Logo" width="300"/>
+![404 Found Banner](../assets/banner.png)
 
 ### **404 Not Found → 404 Found**
 
